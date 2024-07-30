@@ -1,0 +1,46 @@
+.foto111{
+    height: 500px;
+}
+.foto222{
+    height: 500px;
+}
+.navbar-brand{
+    background-color: rgb(234, 140, 240);
+}
+.container-fluid{
+    background-color: rgb(234, 140, 240);
+}
+h2{
+    text-align: center;
+    
+}
+header {
+    background-color: #100f0f;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+section {
+    background-color: #fff;
+    padding: 2em;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+a{
+    margin-left: 15px;
+}
+p{
+    color: #fff;
+    padding: 1em;
+}
+footer{
+    background-color: #100f0f;
+    color: #fff;
+    padding: 3rem;
+}
+.correo{
+    text-decoration: none;
+    color: black;
+}
+

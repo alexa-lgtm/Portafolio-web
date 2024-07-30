@@ -1,0 +1,24 @@
+.izquierda{
+    height: 655px;
+
+}
+.dash{
+    border-radius: 10px;
+}
+.dash:hover{
+    background-color: blue;
+
+}
+.cust{
+    border-radius: 10px;
+}
+.cust:hover{
+    background-color: blue;
+}
+.mmmm{
+    border-radius: 10px;
+}
+.mmmm:hover{
+    background-color: blue;
+    border-radius: 10px;
+}
